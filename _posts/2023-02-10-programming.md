@@ -2,7 +2,6 @@
 layout: post
 title: "This is a blog"
 date: 2023-04-10
-permalink: /post/
 ---
 
 # Welcome
