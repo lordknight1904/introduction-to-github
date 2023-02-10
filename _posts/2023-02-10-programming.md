@@ -10,4 +10,4 @@ date: 2023-04-10
 
 While coding is a skill, programming is an art.
 
-![hankook](/assets/hankook.jpg)
+![hankook]({{site.baseurl}}/assets/hankook.jpg)
