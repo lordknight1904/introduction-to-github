@@ -10,3 +10,5 @@ permalink: /post/
 **Hello world**, this is my first Jekyll blog post.
 
 While coding is a skill, programming is an art.
+
+(remember to modify rules)
