@@ -10,4 +10,4 @@ date: 2023-04-10
 
 While coding is a skill, programming is an art.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkprofiles.com%2Fitzy-members-profile%2F&psig=AOvVaw3bVQbVFFcBfEBUySZ-UnNA&ust=1676127080650000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJC_zYyai_0CFQAAAAAdAAAAABAD" alt="Untitled" />
+<img src="https://kprofiles.com/wp-content/uploads/2019/01/cje-900x600.jpeg" alt="Untitled" />
