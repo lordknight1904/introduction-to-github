@@ -1,2 +1,8 @@
 theme: minima
 future: true
+
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true
