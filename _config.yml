@@ -1,6 +1,8 @@
 theme: minima
 future: true
 
+baseurl: /introduction-to-github
+
 defaults:
   - scope:
       path: "assets"
